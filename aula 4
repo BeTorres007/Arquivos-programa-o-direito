@@ -1,1 +1,8 @@
-Python é uma linguagem de propósito geral com uma sintaxe limpa e legível, muito usada em ciência de dados, aprendizado de máquina e scripts. Já o Java é uma linguagem de programação orientada a objetos e baseada em classes, amplamente usada em grandes sistemas corporativos e aplicações Android. Por fim, JavaScript é uma linguagem de script principalmente usada para desenvolvimento web, para criar interatividade em páginas web e tem características de programação orientada a objetos e funcional. Além disso, todas são linguagens populares usadas para desenvolvimento de software e têm uma sintaxe que suporta variáveis, controle de fluxo, e funções.
+Python é uma linguagem de propósito geral com uma sintaxe limpa e legível, muito usada em ciência de dados, aprendizado de máquina e scripts. Já o Java é uma linguagem de programação orientada a objetos e baseada em classes, amplamente usada em grandes sistemas corporativos e aplicações Android. Por fim, JavaScript é uma linguagem de script principalmente usada para desenvolvimento web, para criar interatividade em páginas web e tem características de programação orientada a objetos e funcional. Além disso, todas são linguagens populares usadas para desenvolvimento de software e têm uma sintaxe que suporta variáveis, controle de fluxo, e funções. Fonte: Wikipédia
+a) Python: print("Oi, meu nome é Bernardo.")
+Java: class Main {
+    public static void main(String[] args) {
+        System.out.println("Oi, meu nome é Bernardo.");
+    }
+}
+Swift: print("Oi, meu nome é Bernardo.") 
