@@ -1,0 +1,23 @@
+Estrutura de repetição:
+frutas = ["maçã", "banana", "laranja"]
+
+for fruta in frutas:
+    print(fruta)
+-----------------------------------------------------------------------------------------------------------------------------------
+Estrutura de repetição:
+contador = 1
+
+while contador <= 5:
+    print(contador)
+    contador += 1  # Incrementa o contador em 1 a cada iteração
+------------------------------------------------------------------------------------------------------------------------------------
+Estrutura de tomada de decisão:
+idade = 18
+
+if idade < 13:
+    print("Você é uma criança.")
+elif idade < 18:
+    print("Você é um adolescente.")
+else:
+    print("Você é um adulto.")
+-----------------------------------------------------------------------------------------------------------------------------------
