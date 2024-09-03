@@ -1,4 +1,4 @@
-Estrutura de repetição: https://www.programiz.com/online-compiler/7HdzeDWDQLL4I
+Estrutura de repetição: https://www.programiz.com/online-compiler/3ODvxwj1kK8uE
 frutas = ["maçã", "banana", "laranja"]
 
 for fruta in frutas:
