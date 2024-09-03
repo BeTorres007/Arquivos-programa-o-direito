@@ -1,17 +1,17 @@
-Estrutura de repetição:
+Estrutura de repetição: https://www.programiz.com/online-compiler/7HdzeDWDQLL4I
 frutas = ["maçã", "banana", "laranja"]
 
 for fruta in frutas:
     print(fruta)
 -----------------------------------------------------------------------------------------------------------------------------------
-Estrutura de repetição:
+Estrutura de repetição: https://www.programiz.com/online-compiler/1kNqcuqwNAUMj
 contador = 1
 
 while contador <= 5:
     print(contador)
     contador += 1  # Incrementa o contador em 1 a cada iteração
 ------------------------------------------------------------------------------------------------------------------------------------
-Estrutura de tomada de decisão:
+Estrutura de tomada de decisão: https://www.programiz.com/online-compiler/5uyma8GESHvNH
 idade = 18
 
 if idade < 13:
