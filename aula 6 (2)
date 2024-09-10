@@ -1,0 +1,18 @@
+def imprime_vogais(frase):
+    # Definindo as vogais
+    vogais = "aeiouAEIOU"
+    # Inicializando uma lista para armazenar as vogais encontradas
+    resultado = []
+
+    # Iterando sobre cada caractere na frase
+    for char in frase:
+        # Verifica se o caractere é uma vogal
+        if char in vogais:
+            resultado.append(char)
+    
+    # Imprime as vogais encontradas
+    print("".join(resultado))
+
+# Exemplo de uso
+frase = "Olá, como vai você?"
+imprime_vogais(frase)
